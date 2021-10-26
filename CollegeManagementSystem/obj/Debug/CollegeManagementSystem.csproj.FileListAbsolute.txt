@@ -1,0 +1,17 @@
+c:\users\elite\documents\visual studio 2012\Projects\CollegeManagementSystem\CollegeManagementSystem\bin\Debug\CollegeManagementSystem.exe.config
+C:\Users\Elite\Documents\Visual Studio 2012\Projects\CollegeManagementSystem\CollegeManagementSystem\bin\Debug\CollegeManagementSystem.exe
+C:\Users\Elite\Documents\Visual Studio 2012\Projects\CollegeManagementSystem\CollegeManagementSystem\bin\Debug\CollegeManagementSystem.pdb
+C:\Users\Elite\Documents\Visual Studio 2012\Projects\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Elite\Documents\Visual Studio 2012\Projects\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.Form1.resources
+C:\Users\Elite\Documents\Visual Studio 2012\Projects\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.Properties.Resources.resources
+C:\Users\Elite\Documents\Visual Studio 2012\Projects\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Elite\Documents\Visual Studio 2012\Projects\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.exe
+C:\Users\Elite\Documents\Visual Studio 2012\Projects\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.pdb
+C:\Users\Elite\Documents\Visual Studio 2012\Projects\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.Login.resources
+C:\Users\Elite\Documents\Visual Studio 2012\Projects\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.MainForm.resources
+C:\Users\Elite\Documents\Visual Studio 2012\Projects\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.Student.resources
+C:\Users\Elite\Documents\Visual Studio 2012\Projects\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.Department.resources
+C:\Users\Elite\Documents\Visual Studio 2012\Projects\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.Fees.resources
+C:\Users\Elite\Documents\Visual Studio 2012\Projects\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.Teacher.resources
+C:\Users\Elite\Documents\Visual Studio 2012\Projects\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.UserForm.resources
+C:\Users\Elite\Documents\Visual Studio 2012\Projects\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.Dashboard.resources
